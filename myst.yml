@@ -18,7 +18,7 @@ project:
         - file: content/02-notebook.ipynb
 
 site:
-  template: article-theme
+  template: book-theme
   nav: []
   # options:
   #   folders: true
