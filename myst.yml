@@ -16,10 +16,11 @@ project:
       children:
         - file: content/01-paper.md
         - file: content/02-notebook.ipynb
-    
+
 site:
   template: article-theme
-  options:
-    folders: true
+  nav: []
+  # options:
+  #   folders: true
   #   favicon: favicon.ico
   #   logo: site_logo.png
